@@ -21,5 +21,5 @@
 
   <a href="https://instagram.com/derekgossani" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:derekgossani605@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="www.linkedin.com/in/derek-gossani-92a98a209" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%#0000FF?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="www.linkedin.com/in/derek-gossani-92a98a209" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%0000FF?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
